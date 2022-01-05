@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soham Parate</h1>
-<h3 align="center">An undergraduate studying IT from India</h3>
+<h3 align="center">An undergraduate student from India studying IT</h3>
 
 <p align="left"> <a href="https://twitter.com/sohamp19" target="blank"><img src="https://img.shields.io/twitter/follow/sohamp19?logo=twitter&style=for-the-badge" alt="sohamp19" /></a> </p>
 
